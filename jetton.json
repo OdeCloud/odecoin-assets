@@ -2,6 +2,6 @@
   "name": "OdeCoins",
   "symbol": "ODE",
   "decimals": 9,
-  "image": "",
+  "image": "https://raw.githubusercontent.com/odecloud/odecoin-assets/main/logo.png",
   "description": "Utility token for the OdeCloud ecosystem — powering rewards, perks, and community engagement."
 }
